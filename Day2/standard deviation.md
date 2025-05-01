@@ -31,6 +31,6 @@ If numbers are `[2, 4, 6]`:
 # 🎯 Key Takeaways
 - **Standard Deviation** = Square root of variance.
 - Helps measure **data spread** and **consistency**.
-- Used in **preprocessing, outlier detection, and model evaluation** in Machine Learning.
+- Used in **preprocessing, outlier detection, and model evaluation** in ML.
 
 > ✨ *"Standard deviation is the ruler of variability—knowing it helps tame the chaos in data!"*
