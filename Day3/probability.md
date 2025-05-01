@@ -1,4 +1,4 @@
-# 🎯 Day 3: Probability - Fancy Notes
+# 🎯 Probability
 
 ---
 
