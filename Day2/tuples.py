@@ -97,7 +97,7 @@ squares = tuple(x**2 for x in range(5))  # (0, 1, 4, 9, 16)
 # ---
 # Tuple vs List Cheat Sheet
 '''
-Feature        | Tuple            | List
+Feature       | Tuple            | List
 --------------|------------------|-----------------
 Mutability    | Immutable        | Mutable
 Syntax        | () or items,     | []
