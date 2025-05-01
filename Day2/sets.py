@@ -37,7 +37,7 @@ mixed = {1, "hello", 3.14, (1, 2)}  # Can contain tuples
 
 ### 2️⃣ Add Items
 colors = {"red", "green"}
-colors.add("blue")              # Add single item
+colors.add("blue")               # Add single item
 colors.update(["yellow", "orange"])  # Add multiple items
 
 ### 3️⃣ Remove Items
