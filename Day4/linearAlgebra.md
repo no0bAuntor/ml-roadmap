@@ -1,4 +1,4 @@
-# Linear Algebra: Theory and Applications
+# Linear Algebra
 
 ## 📌 What is Linear Algebra?
 Linear Algebra is the branch of mathematics concerning **vectors**, **matrices**, and **linear transformations**. It is the foundation of many fields including **Machine Learning**, **Computer Graphics**, and **Data Science**.
