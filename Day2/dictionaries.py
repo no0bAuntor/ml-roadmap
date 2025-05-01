@@ -57,14 +57,14 @@ items = person.items()        # View of key-value pairs (as tuples)
 
 '''
 ### 6️⃣ Dictionary Methods
-| Method               | Description                          | Example                     |
-|----------------------|--------------------------------------|-----------------------------|
-| get(key[, default])  | Safe value access                   | person.get("name")          |
-| pop(key[, default])  | Remove and return value             | person.pop("age")           |
-| update(other_dict)   | Merge dictionaries                  | person.update({"age": 32})  |
+| Method               | Description                         | Example                      |
+|----------------------|-------------------------------------|------------------------------|
+| get(key[, default])  | Safe value access                   | person.get("name")           |
+| pop(key[, default])  | Remove and return value             | person.pop("age")            |
+| update(other_dict)   | Merge dictionaries                  | person.update({"age": 32})   |
 | setdefault(key, val) | Get value, set default if missing   | person.setdefault("city", "NY") |
-| fromkeys(seq[, val]) | Create dict from sequence of keys   | dict.fromkeys(["a", "b"], 0)|
-| copy()               | Shallow copy                        | new_dict = person.copy()    |
+| fromkeys(seq[, val]) | Create dict from sequence of keys   | dict.fromkeys(["a", "b"], 0) |
+| copy()               | Shallow copy                        | new_dict = person.copy()     |
 '''
 
 # ---
