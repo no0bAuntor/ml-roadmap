@@ -13,5 +13,4 @@ data= [int(x) for x in data.split()]
 
 
 print("Mean:", meanDeterminer(data)) 
-
 print("Variance:", varianceDeterminer(data))
