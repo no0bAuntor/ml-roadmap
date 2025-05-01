@@ -24,7 +24,7 @@ except np.linalg.LinAlgError:
 
 eigenvalues, eigenvectors = np.linalg.eig(c)
 print(f"Eigenvalues of matrix c:\n{eigenvalues}")
-print(f"Eigenvectors of matrix c:\n{eigenvectors}")
 
+print(f"Eigenvectors of matrix c:\n{eigenvectors}")
 
 print(f"Rank of matrix c:\n{np.linalg.matrix_rank(c)}")
