@@ -7,7 +7,7 @@
 - Can store **mixed data types** (int, float, string, etc.).  
 
 ### 🔹 Syntax:
-my_list = [item1, item2, item3]  # Square brackets
+my_list = [item1, item2, item3]   # Square brackets
 '''
 
 # ---
