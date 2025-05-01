@@ -14,4 +14,3 @@ for x in range(10):
         tail+=1
 print(f"Total Heads: {head}")        
 print(f"Total Tails: {tail}")        
-
