@@ -1,4 +1,3 @@
-Got it! Here's the **cleaned-up version** of your `README.md` with the progress updated to include **Day 6**, but without adding the full activity details — just the snapshot line:
 
 ---
 
@@ -49,5 +48,3 @@ Got it! Here's the **cleaned-up version** of your `README.md` with the progress 
 🚀 **Keep pushing!** The future belongs to those who learn.
 
 ---
-
-Let me know when you're ready for **Day 7 tasks** or want this saved as a file!
