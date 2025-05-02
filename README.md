@@ -1,5 +1,3 @@
-Here's your polished ML Roadmap with inspirational closing quotes:
-
 ---
 # 🚀 My Machine Learning Journey  
 
