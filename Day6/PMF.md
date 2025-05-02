@@ -9,7 +9,10 @@ A **Probability Mass Function (PMF)** is a function that gives the **probability
 
 * The PMF of a random variable $X$, denoted as $P(X = x)$, satisfies:
 
-  $\sum P(X = x_i) = 1$
+$$
+\sum P(X = x_i) = 1
+$$
+
 * PMFs are only defined for **discrete variables** (e.g., coin tosses, dice rolls, word counts).
 * Each probability must satisfy $0 \leq P(X = x) \leq 1$
 
